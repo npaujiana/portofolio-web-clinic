@@ -1,0 +1,9 @@
+{
+  "name": "DIVINE Aesthetic Lounge",
+  "description": "Klinik Pratama Estetika Medis Berizin Resmi di Gading Serpong dengan konsultasi dokter dan AI concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
